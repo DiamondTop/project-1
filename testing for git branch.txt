@@ -1,2 +1,11 @@
 Roy test 1
+<<<<<<< HEAD
 Kevin test 1
+=======
+isaac test 2
+isaac merge test
+Russell Test 1
+Merge Test Russell
+I did create a branch; commented on the file; merged file but still confused how i was able to do it  ~Russell~
+Concept is getting clearer now ~Russell~
+>>>>>>> 05b16ea21e59cf445b9c199266a2c53aa48bc28c
