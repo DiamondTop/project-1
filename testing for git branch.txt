@@ -9,3 +9,4 @@ Merge Test Russell
 I did create a branch; commented on the file; merged file but still confused how i was able to do it  ~Russell~
 Concept is getting clearer now ~Russell~
 >>>>>>> 05b16ea21e59cf445b9c199266a2c53aa48bc28c
+I AM CHANGING THIS FILE.
