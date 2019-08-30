@@ -3,3 +3,4 @@ isaac test 2
 isaac merge test
 Russell Test 1
 Merge Test Russell
+I did create a branch; commented on the file; merged file but still confused how i was able to do it  ~Russell~
